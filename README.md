@@ -17,7 +17,7 @@ Leveraging World Bank's educational data to identify potential global markets fo
 - [How to Launch the Jupyter Notebook](#how-to-launch-the-jupyter-notebook)
 - [Support](#support)
 - [Contributing](#contributing)
-- [Author](#author)
+- [Author](#-author--acknowledgments-)
 - [License](#license)
 
 ## 📜 Introduction <a name="introduction"></a>
@@ -69,7 +69,7 @@ If you have any questions, feel free to reach out to me on [LinkedIn](https://ww
 
 Contributions, issues, and feature requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 👤 Author & Acknowledgments <a name="author-acknowledgments"></a>
+## 👤 Author & Acknowledgments <a name="-author--acknowledgments-"></a>
 
 **Mohamed Ali EL HAMECH**
 
